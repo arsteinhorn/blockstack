@@ -2,7 +2,14 @@
 
 **Appearances**
 
-* Feb 1, 2018 - **The Gaurdian** - [The punk rock internet – how DIY ​​rebels ​are working to ​replace the tech giants](https://www.theguardian.com/technology/2018/feb/01/punk-rock-internet-diy-rebels-working-replace-tech-giants-snoopers-charter)
+* Apr 1, 2018 - **New York Times** - [Tech Thinks It Has a Fix for the Problems It Created: Blockchain](https://www.nytimes.com/2018/04/01/technology/blockchain-uses.html) 
+* Mar 23, 2018 - **The Washington Post** - [The new technology that aspires to #DeleteFacebook for good](https://www.washingtonpost.com/news/the-switch/wp/2018/03/23/the-new-technology-that-aspires-to-deletefacebook-for-good/?utm_term=.0cb261e2706a)
+* June 8, 2018 - **Fortune Magazine** - [Meet the Blockchain Startup That Inspired HBO’s ‘Silicon Valley’ Season 5](https://www.washingtonpost.com/news/the-switch/wp/2018/03/23/the-new-technology-that-aspires-to-deletefacebook-for-good/?utm_term=.0cb261e2706a)
+* May 10, 2018 - **Forbes** - [New Blockchain Fund With Winklevoss Backing Targets Facebook's Business Model](https://www.forbes.com/sites/michaeldelcastillo/2018/05/10/new-blockchain-fund-with-winklevoss-backing-targets-facebooks-business-model/#78ef1c65541b)
+* May 18, 2018 - **AdWeek** - [The Dapp Store Is Where You Can Satisfy All Your Decentralized App Needs (AdWeek)](https://www.adweek.com/digital/the-dapp-store-is-where-you-can-satisfy-all-your-decentralized-app-needs/)
+* Apr 25, 2018 - **Coin Desk** [Two Big Crypto Startups Are Out to Build One Universal Wallet](https://www.coindesk.com/crypto-bounty-blockstack-offer-50k-reward-for-best-shapeshift-wallet/)
+* Mar 5, 2018 - **WIRED** - [The Decentralized Internet is Here, With Some Glitches](https://www.wired.com/story/the-decentralized-internet-is-here-with-some-glitches/)
+* Feb 1, 2018 - **The Guardian** - [The punk rock internet – how DIY ​​rebels ​are working to ​replace the tech giants](https://www.theguardian.com/technology/2018/feb/01/punk-rock-internet-diy-rebels-working-replace-tech-giants-snoopers-charter)
 * Jan 26, 2018 - **International Business Times** - [Blockstack focuses on building decentralised web amid crypto-token mania](http://www.ibtimes.co.uk/blockstack-focuses-building-decentralised-web-amid-crypto-token-mania-1656755)
 * Jan 16, 2018 - **New York Times** - [Beyond the Bitcoin Bubble](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html)
 * Jan 2, 2018 - **CoinDesk** - [ICOs Raise Over $1 Billion in a Month for the First Time](https://news.bitcoin.com/icos-raise-1-billion-month-first-time/)
